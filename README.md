@@ -1,6 +1,6 @@
 # MOOD-MUSIC-AI
 PROJECT COURSE OF AI
-##SUMMARY#
+
 
 Components:
 
@@ -16,7 +16,7 @@ Licensing: Clear information about the project's licensing, including terms for 
 
 Contributions:
 
-We actively welcome contributions from the open-source community. Contributions can include code enhancements, bug reports, feature requests, and improvements to the project's documentation. All contributors are expected to adhere to the project's code of conduct and coding stand
+We actively welcome contributions from the open-source community. Contributions can include code enhancements, bug reports, feature requests, and improvements to the project's documentation. All contributors are expected to adhere to the project's code of conduct and coding strand
 ards.
 
 
